@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant for Astr112"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Canterbury, Department of Physics and Astronomy"
+date: 2020-01-01
+location: "Christchurch, New Zealand"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
