@@ -6,7 +6,7 @@ permalink: /publication/MLforMedicalImageTranslation
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-01-09
 venue: 'Bioengineering'
-#slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.mdpi.com/2306-5354/10/9/1078'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'McNaughton, J., Fernandez, J., Holdsworth, S., Chong, B., Shim, V., & Wang, A. (2023). Machine Learning for Medical Image Translation: A Systematic Review. Bioengineering, 10(9), 1078. https://doi.org/10.3390/bioengineering10091078'
