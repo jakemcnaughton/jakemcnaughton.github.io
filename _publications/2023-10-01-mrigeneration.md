@@ -7,6 +7,6 @@ excerpt: 'CT scans are currently the most common imaging modality used for suspe
 date: 2023-10-01
 venue: 'BioMedInformatics'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: '[https://academicpages.github.io/files/paper2.pdf'](https://www.mdpi.com/2673-7426/3/3/50)
+paperurl: 'https://www.mdpi.com/2673-7426/3/3/50'
 citation: 'McNaughton, J., Holdsworth, S., Chong, B., Fernandez, J., Shim, V., & Wang, A. (2023). Synthetic MRI Generation from CT Scans for Stroke Patients. BioMedInformatics, 3(3), 50. https://doi.org/10.3390/biomedinformatics3030050'
 ---
