@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-01-09
 venue: 'Bioengineering'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.mdpi.com/2306-5354/10/9/1078'
