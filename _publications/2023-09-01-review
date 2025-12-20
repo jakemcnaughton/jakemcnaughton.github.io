@@ -2,11 +2,11 @@
 title: "Machine Learning for Medical Image Translation: A Systematic Review"
 collection: publications
 category: manuscripts
-permalink: /publication/MLforMedicalImageTranslation
+permalink: 'https://www.mdpi.com/2306-5354/10/9/1078'
 excerpt: 'CT scans are often the first and only form of brain imaging that is performed to inform treatment plans for neurological patients due to its time- and cost-effective nature. However, MR images give a more detailed picture of tissue structure and characteristics and are more likely to pick up abnormalities and lesions. The purpose of this paper is to review studies which use deep learning methods to generate synthetic medical images of modalities such as MRI and CT.'
 date: 2023-01-09
 venue: 'Bioengineering'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+#slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.mdpi.com/2306-5354/10/9/1078'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'McNaughton, J., Fernandez, J., Holdsworth, S., Chong, B., Shim, V., & Wang, A. (2023). Machine Learning for Medical Image Translation: A Systematic Review. Bioengineering, 10(9), 1078. https://doi.org/10.3390/bioengineering10091078'
