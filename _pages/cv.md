@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc in Theoretical Physics, Perimeter Institute and University of Waterloo, 2025 - 2026 (Expected)
+* M.E. in Bioengineering, University of Auckland, 2022 - 2023
+* B.Sc(Hons) in Mathematics, University of Auckland, 2021 - 2022
+* B.Sc in Mathematics and Physics, University of Canterbury, 2018 - 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Data Engineer
+  * Charles Sturt University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Associate
+  * University of Sydney
+  * Supervisor: Professor Ganna Pogrebna
 
 Publications
 ======
@@ -61,4 +45,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 8 Peer Reviews completed
