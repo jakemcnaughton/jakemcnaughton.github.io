@@ -10,5 +10,3 @@ the Physical Sciences.'
 paperurl: 'https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_116.pdf'
 citation: 'McNaughton, J., & Hibat‑Allah, M. (2025). Adaptive neural quantum states: A recurrent neural network perspective. In Proceedings of the Machine Learning and the Physical Sciences Workshop at NeurIPS 2025.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
