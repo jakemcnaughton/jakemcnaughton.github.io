@@ -1,9 +1,9 @@
 ---
 title: "Machine Learning for Medical Image Translation: A Systematic Review"
 collection: publications
-category: manuscriptst
+category: manuscripts
 permalink: /publication/MLforMedicalImageTranslation
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'CT scans are often the first and only form of brain imaging that is performed to inform treatment plans for neurological patients due to its time- and cost-effective nature. However, MR images give a more detailed picture of tissue structure and characteristics and are more likely to pick up abnormalities and lesions. The purpose of this paper is to review studies which use deep learning methods to generate synthetic medical images of modalities such as MRI and CT.'
 date: 2023-01-09
 venue: 'Bioengineering'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
