@@ -23,7 +23,7 @@ repository               : "jakemcnaughton/jakemcnaughton.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Jake McNaughton _ GS_Cropped.jpg"
+  avatar           : "Jake McNaughton _ GS_Cropped_Compressed.jpg"
   name             : "Jake McNaughton"
   #pronouns         : "he/him"# example: "she/her"  
   bio              : "Master's Student at Perimeter Institute"
